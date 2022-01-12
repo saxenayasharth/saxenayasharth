@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @saxenayasharth
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning js
 - 📫 yasharthsaxena1999@gmail.com
 
 <!---
